@@ -1,2 +1,2 @@
-# K-N-O-X
+
 HELLO THERE
