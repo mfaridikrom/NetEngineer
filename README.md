@@ -1,8 +1,11 @@
+<img src="![111](https://github.com/user-attachments/assets/8f8d0b2d-e192-46a3-9073-4823cee04047)
+" width="100%">
+
 # 👋 Hi, I'm Network Enthusiast
 
 🌐 Mahasiswa Jaringan Komputer
-🔧 Fokus pada Networking, Routing, dan Infrastruktur
-🚀 Tujuan: Menjadi Network Engineer
+🔧 Fokus pada Networking & Infrastruktur
+🚀 Future Network Engineer
 
 "Ping dulu baru percaya."
 
@@ -11,13 +14,12 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge\&logo=mikrotik\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge\&logo=cloudflare\&logoColor=white)
-![Subnetting](https://img.shields.io/badge/Subnetting-FF6C37?style=for-the-badge\&logo=protocols\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-## 📚 Currently Learning
+## 📚 Learning
 
 * Routing & Switching
 * VLAN
 * Subnetting
-* Network Troubleshooting
+* Troubleshooting
